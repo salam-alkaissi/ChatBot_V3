@@ -28,7 +28,7 @@ A powerful document analysis tool combining RAG (Retrieval-Augmented Generation)
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/salam-alkaissi/ChatBot-DocRAG_V2
+git clone https://github.com/salam-alkaissi/ChatBot_V3.git
 cd docurag
 
 
@@ -42,7 +42,7 @@ python -m nltk.downloader punkt
 
 
 cp config/api_keys.env.example config/api_keys.env
-# Add your API keys to config/api_keys.env
+# Add  API keys to config/api_keys.env
 
 # Start the application
 python app.py
@@ -53,11 +53,13 @@ docurag/
 ├── src/
 │   ├── document_processing.py
 │   ├── generation.py
+│   ├── graph_summary.py
 │   ├── hybrid_retrieval.py
+│   ├── topic_visualization.py
+│   ├── wiki_utils.py
 │   └── rag_pipeline.py
 ├── config/
 │   └── api_keys.env
 ├── outputs/
-├── docs/
 ├── app.py
 └── requirements.txt
