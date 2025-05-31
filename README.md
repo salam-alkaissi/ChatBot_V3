@@ -36,7 +36,7 @@ A powerful document analysis tool combining RAG (Retrieval-Augmented Generation)
 
 ## Demo
 
-
+https://github.com/user-attachments/assets/56eb7056-1c04-4b09-8270-57ef4fa319aa
 
 
 ## Installation
