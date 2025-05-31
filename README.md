@@ -1,5 +1,11 @@
 # DocuRAG - Intelligent Document Analysis System
 
+## Demo
+
+https://github.com/user-attachments/assets/56eb7056-1c04-4b09-8270-57ef4fa319aa
+
+
+
 ![image](https://github.com/user-attachments/assets/318f28ec-1cdd-40d4-9c85-9e19a0c646ed)
 
 ![image](https://github.com/user-attachments/assets/704109b3-707b-4191-bc60-5d5cc19163b6)
@@ -32,11 +38,6 @@ A powerful document analysis tool combining RAG (Retrieval-Augmented Generation)
 ![image](https://github.com/user-attachments/assets/e4f82f6d-a510-442d-8dc2-c437c7620ffc)
 
 ![image](https://github.com/user-attachments/assets/5e8104b8-9c7e-4f98-afae-438a7b1af1c2)
-
-
-## Demo
-
-https://github.com/user-attachments/assets/56eb7056-1c04-4b09-8270-57ef4fa319aa
 
 
 ## Installation
